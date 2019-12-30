@@ -1,2 +1,2 @@
 # vitiligo
-Mathematical model for vitiligo progression
+Mathematical model for vitiligo progression.
