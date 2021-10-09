@@ -1,0 +1,50 @@
+# data file
+out/
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# VS2013 Files
+*.opensdf
+*.sdf
+*.suo
+*.psess
+*.vspx
+.vscode/
+
+# Build directory
+build/
+case*/
+
+# Sublime project 
+*.sublime-workspace
+.idea/
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Files generated during build
+src/JSON/schema.cpp
